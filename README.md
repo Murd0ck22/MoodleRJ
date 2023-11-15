@@ -5,11 +5,12 @@
 1. Ejecutar los siguientes comandos:
 
    $ git clone https://github.com/Tuyub22/MoodleRJ.git
+
    $ cd MoodleRJ/
 
-2. Levantar los contenedores
-
-  $ docker-compose up 
+3. Levantar los contenedores
+  
+   $ docker-compose up 
 
 # Paso 1. Login en moodle 
 
