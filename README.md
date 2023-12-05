@@ -61,6 +61,19 @@
   
   ![img8](imgs/Imagen9.png)
 
+# EJEMPLO EN LA MAC
 
+   Fotos del repositorio clonado y ejecutado en la Mac
+
+   ![mac1](imgs/Mac1.jpg)
+
+   ![mac2](imgs/Mac2.jpg)
+
+   ![mac3](imgs/Mac3.jpg)
+
+   ![mac4](imgs/Mac4.jpg)
+
+   ![mac5](imgs/Mac5.jpg)
+   
 
 Repositorio para Devops, actividad de moodle. Hecho por Rigoberto Tuyub y Jorge Caamal
